@@ -10,7 +10,7 @@ require("vicious")--}}}
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, and wallpapers
-beautiful.init("/home/hitamu/.config/awesome/themes/daes/theme.lua")
+beautiful.init("/home/hitamu/.config/awesome/themes/hitamu/theme.lua")
 --beautiful.init("/home/hitamu/.config/awesome/themes/awesome-solarized/dark/theme.lua")
 -- This is used later as the default terminal and editor to run.
 --terminal = "mate-terminal"
@@ -73,7 +73,7 @@ end
 myawesomemenu = {
    { "Manual", terminal .. " -e man awesome" },
    { "Edit config", editor_cmd .. " " .. awful.util.getdir("config") .. "/rc.lua" },
-   { "Edit theme", editor_cmd .. " " .. awful.util.getdir("config") .. "/themes/daes/theme.lua" },
+   { "Edit theme", editor_cmd .. " " .. awful.util.getdir("config") .. "/themes/hitamu/theme.lua" },
    { "Restart", awesome.restart },
    { "Quit", awesome.quit },
    { "Oblogout", "oblogout" }
@@ -157,7 +157,7 @@ vicious.register(volwidget, vicious.widgets.volume, '<span color="#00ccFF">$1%</
 
 -- Vol icon (hitamu)
 volicon = widget({ type = "imagebox", align = "right" })
-volicon.image = image("/home/hitamu/.config/awesome/themes/daes/icons/vol.png")
+volicon.image = image("/home/hitamu/.config/awesome/themes/hitamu/icons/vol.png")
 
 -- CPU widget (hitamu)
 cpuwidget = widget({ type = "textbox" })
@@ -165,7 +165,7 @@ vicious.register(cpuwidget, vicious.widgets.cpu, '<span color="#EF2929">$1%</spa
 
 -- Cpu icon (hitamu)
 cpuicon = widget({ type = "imagebox", align = "right" })
-cpuicon.image = image("/home/hitamu/.config/awesome/themes/daes/icons/cpu.png")
+cpuicon.image = image("/home/hitamu/.config/awesome/themes/hitamu/icons/cpu.png")
 	
 -- Memory usage (hitamu)
 memwidget = widget({ type = "textbox" })
@@ -174,11 +174,11 @@ vicious.register(memwidget, vicious.widgets.mem, '<span color="#FF9300">$1%</spa
 
 -- Mem icon (hitamu)
 memicon = widget({ type = "imagebox", align = "right" })
-memicon.image = image("/home/hitamu/.config/awesome/themes/daes/icons/mem.png")
+memicon.image = image("/home/hitamu/.config/awesome/themes/hitamu/icons/mem.png")
 
 -- temperature
 tzicon = widget({ type = "imagebox", align = "right" })
-tzicon.image = image("/home/hitamu/.config/awesome/themes/daes/icons/temp.png")
+tzicon.image = image("/home/hitamu/.config/awesome/themes/hitamu/icons/temp.png")
 tzswidget = widget({ type = "textbox" })
 vicious.register(tzswidget, vicious.widgets.thermal,
 	function (widget, args)
@@ -200,7 +200,7 @@ vicious.register(batwidget, vicious.widgets.bat,
 	function (widget, args)
 		if args[2] == 0 then return ""
 		else
-			baticon.image = image("/home/hitamu/.config/awesome/themes/daes/icons/bat.png")
+			baticon.image = image("/home/hitamu/.config/awesome/themes/hitamu/icons/bat.png")
 			return "<span color='#00ccFF'>".. args[2] .. "%</span>"
 		end
 	end, 61, "BAT0"
