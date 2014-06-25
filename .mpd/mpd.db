@@ -1,0 +1,3215 @@
+info_begin
+format: 1
+mpd_version: 0.18.7
+fs_charset: UTF-8
+tag: Artist
+tag: ArtistSort
+tag: Album
+tag: AlbumArtist
+tag: AlbumArtistSort
+tag: Title
+tag: Track
+tag: Name
+tag: Genre
+tag: Date
+tag: Composer
+tag: Performer
+tag: Disc
+tag: MUSICBRAINZ_ARTISTID
+tag: MUSICBRAINZ_ALBUMID
+tag: MUSICBRAINZ_ALBUMARTISTID
+tag: MUSICBRAINZ_TRACKID
+info_end
+directory: 2014
+mtime: 1399279162
+begin: 2014
+song_begin: Guitar-Em Của Ngày Hôm Qua.mp3
+Time: 235
+Artist: SÃÂ¡n TÃÂ¹ng MTP
+Title: Em cÃ¡Â»Â§a ngÃÂ y hÃÂ´m qua (Guitar)
+Album: mp3.zing.vn
+mtime: 1399279150
+song_end
+song_begin: HappyFromDespicableMe2-PharrellWilliams-2978903.mp3
+Time: 233
+Artist: Pharrell Williams
+Title: Happy (From Despicable Me 2)
+Album: nhaccuatui.com
+Genre: Pop
+mtime: 1397377905
+song_end
+end: 2014
+directory: Billboard Hot 100 - 2011
+mtime: 1397304799
+begin: Billboard Hot 100 - 2011
+song_begin: Down On Me - 50 Cent ft. Jeremih.mp3
+Time: 228
+Artist: 50 Cent ft. Jeremih
+AlbumArtist: Yeunhac.vn - It's True Music
+Title: Down On Me
+Composer: Yeunhac.vn - It's True Music
+Disc: Yeunhac.vn - It's True Music
+mtime: 1394284926
+song_end
+song_begin: Heartless - Kanye West.mp3
+Time: 211
+Artist: Kanye West
+Title: Heartless
+Album: 808s & Heartbreak
+Track: 1412
+Date: 2011
+Genre: Nhac US - UK
+mtime: 1394284952
+song_end
+song_begin: My Life Would Suck Without You - Kelly Clarkson.mp3
+Time: 213
+Artist: Kelly Clarkson
+Title: My Life Would Suck Without You
+Album: All I Ever Wanted
+Track: 1412
+Date: 2010
+Genre: Nhac US - UK
+mtime: 1394285020
+song_end
+song_begin: Apologize - Timbaland, OneRepublic.mp3
+Time: 184
+Artist: Timbaland, One Republic
+Title: Apologize
+Album: Dreaming Out Loud
+Track: 1412
+Date: 2011
+Genre: Nhac US - UK
+mtime: 1394284866
+song_end
+song_begin: Best i ever had - Drake ft Lil Wayne.mp3
+Time: 227
+Artist: Drake ft Lil Wayne
+Title: Best I Ever Had (Grey Sky Mor
+Album: Everything You Want
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284868
+song_end
+song_begin: See you again - Miley Cyrus.mp3
+Time: 188
+Artist: Miley Cyrus
+Title: See you again
+Album: Hannah Montana 2 OST - Meet M
+Track: 1412
+Date: 2009
+Genre: Nhac Anh
+mtime: 1394285048
+song_end
+song_begin: Halo - Beyonce.mp3
+Time: 228
+Artist: Beyonce
+Title: Halo
+Album: I Am...Sasha Fierce
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284946
+song_end
+song_begin: Tattoo - Jordin Sparks.mp3
+Time: 234
+Artist: Jordin Sparks
+Title: Tattoo
+Album: Jordin Sparks 2007
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394285068
+song_end
+song_begin: Turning Me On - Keri Hilson, Lil Wayne.mp3
+Time: 254
+Album: NhacCuaTui
+mtime: 1394285086
+song_end
+song_begin: 4 Minutes - Madonna,Justin Timberlake,Timbaland.mp3
+Time: 246
+Artist: Madonna
+Title: 4 Minutes
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Nhac US - UK
+mtime: 1394284852
+song_end
+song_begin: Bleeding Love - Leona Lewis.mp3
+Time: 261
+Artist: Leona Lewis
+Title: Bleeding Love
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+Genre: Nhac Anh
+mtime: 1394284872
+song_end
+song_begin: Boom Boom Pow - The Black Eyed Peas.mp3
+Time: 246
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Black eyed peas
+Date: 2007
+Genre: The loai khac
+Title: Boom Boom Pow
+mtime: 1394284878
+song_end
+song_begin: Bubbly - Colbie Caillat.mp3
+Time: 197
+Artist: Colbie Caillat
+Title: Bubbly
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+mtime: 1394284880
+song_end
+song_begin: Circus - Britney Spears.mp3
+Time: 193
+Artist: Britney Spears
+Title: Circus
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284886
+song_end
+song_begin: Closer (2008) - Ne-Yo.mp3
+Time: 239
+Artist: Ne-yo
+Title: Closer
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+mtime: 1394284890
+song_end
+song_begin: Crack A Bottle - Eminem.mp3
+Time: 292
+Artist: Eminem
+Title: Crack A Bottle
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Nhac US - UK
+mtime: 1394284894
+song_end
+song_begin: Damaged - Danity Kane Ft. Diddy.mp3
+Time: 253
+Artist: Danity Kane Ft. Diddy
+Title: Damaged
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+mtime: 1394284898
+song_end
+song_begin: Dangerous - Kardinal Offishall _ Akon.mp3
+Time: 248
+Artist: Akon
+Title: Dangerous
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Nhac US - UK
+mtime: 1394284900
+song_end
+song_begin: Dead And Gone - T.I.,Justin Timberlake.mp3
+Time: 301
+Artist: T.I ft Justin Timberlake
+Title: Dead And Gone
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+Genre: Nhac US - UK
+mtime: 1394284904
+song_end
+song_begin: Don_t Stop The Music - Rihanna.mp3
+Time: 267
+Artist: Rihanna
+Title: Don't Stop The Music
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284908
+song_end
+song_begin: Don_t Trust Me - 3OH!3.mp3
+Time: 193
+Artist: 3OH!3
+Title: Don't Trust Me
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+Genre: Nhac Anh
+mtime: 1394284918
+song_end
+song_begin: Down - Jay Sean,Lil Wayne.mp3
+Time: 212
+Artist: Jay Sean
+Title: Down (Candle light Remix)
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284922
+song_end
+song_begin: DownOnMe-Jeremih-50Cent_34ube_hq.mp3
+Time: 229
+Artist: Jeremih ft 50 Cent
+Title: Down On Me
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Nhac US - UK
+mtime: 1394284928
+song_end
+song_begin: Gives You Hell - The American Rejects.mp3
+Time: 210
+Artist: The American Rejects
+Title: Give You Hell
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+mtime: 1394284934
+song_end
+song_begin: GladYouCame-TheWanted_3bnqk.mp3
+Time: 198
+Artist: The Wanted
+Title: Glad You Came
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Âu, Mỹ
+mtime: 1394284938
+song_end
+song_begin: Good Girls Go  Bad - Cobra Starship ft Flo Rida.mp3
+Time: 202
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Cobra Starship ft Flo Rida
+Date: 2007
+Genre: Nhac Anh
+Title: Good Girls Go  Bad
+mtime: 1394284940
+song_end
+song_begin: Hot N_ Cold - Katy Perry.mp3
+Time: 221
+Artist: Katy Perry
+Title: Hot and Cold
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+mtime: 1394284958
+song_end
+song_begin: I Kissed A Girl - Katy Perry.mp3
+Time: 180
+Artist: Katy Perry
+Title: I Kissed A Girl
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+Genre: Nhac Anh
+mtime: 1394284968
+song_end
+song_begin: I_m Yours - Jason Mraz.mp3
+Time: 243
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Jason Mraz
+Date: 2010
+Genre: Nhac Anh
+Title: I'm Yours
+mtime: 1394284982
+song_end
+song_begin: Just Dance - Lady GaGa Ft. Colby O_ Donis.mp3
+Time: 242
+Artist: Lady Gaga
+Title: Just Dance
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+mtime: 1394284988
+song_end
+song_begin: Let It Rock - Kevin Rudolf, Lil Wayne.mp3
+Time: 233
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Lil Wayne
+Date: 2011
+Genre: Nhac US - UK
+Title: Let It Rock
+mtime: 1394285000
+song_end
+song_begin: Love Lockdown - Kanye West.mp3
+Time: 271
+Artist: Kanye West
+Title: Love Lockdown
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+Genre: Nhac Anh
+mtime: 1394285008
+song_end
+song_begin: LoveGame - Lady Gaga.mp3
+Time: 388
+Track: 1412
+Album: NhacCuaTui.Com
+Date: 2010
+mtime: 1394285012
+song_end
+song_begin: Low - Flo Rida ft. T.Pain.mp3
+Time: 308
+Artist: Flo Rida ft. T.Pain
+Title: Low
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2009
+Genre: Nhac Anh
+mtime: 1394285016
+song_end
+song_begin: No Air - Jordin Sparks, Chris Brown.mp3
+Time: 265
+Artist: Jordin Sparks, Chris Brown
+Title: No Air
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+mtime: 1394285024
+song_end
+song_begin: No One (Live) - Alicia Keys.mp3
+Time: 240
+Artist: Alicia Keys
+Title: No One
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2009
+mtime: 1394285028
+song_end
+song_begin: Pocketful Of Sunshine - Natasha Bedingfield.mp3
+Time: 185
+Artist: Natasha Bedingfield
+Title: Pocketful of sunshine
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+mtime: 1394285036
+song_end
+song_begin: Poker Face - Lady Gaga.mp3
+Time: 338
+Artist: Lady Gaga
+Title: Poker Face
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+mtime: 1394285042
+song_end
+song_begin: Rihanna - You Da One.mp3
+Time: 200
+Artist: Rihanna
+Title: You Da One
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Âu, Mỹ
+mtime: 1394285044
+song_end
+song_begin: Shayne Ward - Beautiful In White.mp3
+Time: 232
+Artist: Shayne Ward
+Title: Beautiful In White
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2012
+Genre: Blues
+mtime: 1394285050
+song_end
+song_begin: So What - Pink.mp3
+Time: 216
+Artist: Pink
+Title: So What
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Nhac US - UK
+mtime: 1394285052
+song_end
+song_begin: Sober - Pink.mp3
+Time: 345
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Pink
+Date: 2007
+Genre: Nhac Anh
+Title: Sober
+mtime: 1394285058
+song_end
+song_begin: Take A Bow - Rihanna.mp3
+Time: 229
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Rihanna
+Date: 2007
+Genre: Nhac Anh
+Title: Take A Bow
+mtime: 1394285060
+song_end
+song_begin: Take You There - Sean Kingston.mp3
+Time: 241
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Sean Kingston
+Date: 2011
+Genre: Nhac US - UK
+Title: Take You There
+mtime: 1394285064
+song_end
+song_begin: Tear Drops On My Guitar - Taylor Swift.mp3
+Time: 205
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Taylor Swift
+Date: 2011
+Genre: Nhac US - UK
+Title: Tear Drops On My Guitar
+mtime: 1394285072
+song_end
+song_begin: The Climb - Miley Cyrus.mp3
+Time: 236
+Artist: Miley Cyrus
+Title: The Climb
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+Genre: Nhac Anh
+mtime: 1394285078
+song_end
+song_begin: The Ting Tings - That-s Not My Name.mp3
+Time: 311
+Artist: The Ting Tings
+Title: Thatâ€™s Not My Name
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Âu, Mỹ
+mtime: 1394285080
+song_end
+song_begin: Touch My Body - Mariah Carey.mp3
+Time: 205
+Artist: Mariah Carey
+Title: Touch My Body
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+Genre: Nhac US - UK
+mtime: 1394285084
+song_end
+song_begin: Whatcha Say (Klubjumpers Remix) - Jason DeRulo.mp3
+Time: 242
+Track: 1412
+Album: NhacCuaTui.Com
+Date: 2010
+mtime: 1394285092
+song_end
+song_begin: Whatever U Like (feat. T.I.) - Nicole Scherzinger.mp3
+Time: 235
+Track: 1412
+Album: NhacCuaTui.Com
+Date: 2009
+mtime: 1394285096
+song_end
+song_begin: When i grow up - Pussy Cat Babes.mp3
+Time: 240
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Pussy Cat Babes
+Date: 2007
+Genre: Nhac Anh
+Title: When i grow up
+mtime: 1394285100
+song_end
+song_begin: With You (2007) - Chris Brown.mp3
+Time: 252
+Track: 1412
+Album: NhacCuaTui.Com
+Date: 2010
+mtime: 1394285104
+song_end
+song_begin: Womanizer - Britney Spears.mp3
+Time: 224
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Britney Spear
+Date: 2010
+Genre: Nhac Anh
+Title: Womanizer
+mtime: 1394285106
+song_end
+song_begin: You Belong With Me - Taylor Swift.mp3
+Time: 232
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Taylor Swift
+Date: 2007
+Genre: Nhac Anh
+Title: You Belong With Me
+mtime: 1394285116
+song_end
+song_begin: Party In The USA - Miley Cyrus.mp3
+Time: 203
+Artist: Miley Cyrus
+Title: Party In The U.S.A
+Album: The Time Of Our Lives
+Track: 1412
+Date: 2010
+Genre: Nhac Anh
+mtime: 1394285030
+song_end
+song_begin: Payphone - Maroon 5.mp3
+Time: 231
+Artist: Maroon 5
+Title: Payphone
+Album: Yeunhac.vn - It\'s true music - Âm nhạc đích thực| Tải nhạc chờ |Nhạc Mp3 | Nhạc chuông | Nghe nhạc hot |  Bảng xếp hạng âm nhạc | Yêu nhạc | Yeu nhac | Yeunhac | I love music
+Track: 1/10
+Date: 2012
+Genre: Nhạc Âu Mỹ
+mtime: 1394285034
+song_end
+song_begin: Kiss Me Thru The Phone - Soulja Boy.mp3
+Time: 194
+Artist: Soulja Boy
+Title: Kiss Me Thru The Phone
+Album: iSouljaBoytellem
+Track: 1412
+Date: 2007
+Genre: The loai khac
+mtime: 1394284994
+song_end
+end: Billboard Hot 100 - 2011
+directory: Music_Mp3
+mtime: 1397304830
+begin: Music_Mp3
+song_begin: ChuyenNangTienNuTenThi.mp3
+Time: 237
+Title: Hồ Quang Hiếu - Chuyện Tình Nàng Trinh Nữ Tên Thi - New Mix [VN88.COM]
+Date: 2012
+Genre: Blues
+mtime: 1394284848
+song_end
+song_begin: DuCoCachXaFullMaster-DinhManhNi_qjum.mp3
+Time: 245
+mtime: 1394284860
+song_end
+song_begin: What Makes You Beautiful - Boyce Avenue _ 320 lyrics, upload bởi shannondao.mp3
+Time: 210
+Artist: Boyce Avenue
+Title: What Makes You Beautiful
+Date: 2012
+mtime: 1394285280
+song_end
+song_begin: WhyNotMe-EnriqueIglesias_3qrx7.mp3
+Time: 219
+mtime: 1394285286
+song_end
+song_begin: Wicked Game.mp3
+Time: 326
+Artist: The Weeknd
+Title: Wicked Games
+Date: 2011
+mtime: 1394285290
+song_end
+song_begin: Quê Tôi_Thùy Chi_-2857870.mp3
+Time: 269
+Artist: Thuy Chi
+AlbumArtist: iS3a © SonHai.Info [2008]
+Title: Que Toi
+Album: -¤- Style Of Music [}-{] SonHai.Info -¤-
+Track: SonHai.Info
+Date: 2008
+Genre: ** SonHai.Info **
+Composer: Email : Webmaster@SonHai.Info
+Performer: iS3a © SonHai.Info [2008]
+mtime: 1394285252
+song_end
+song_begin: Adam Lambert - Whataya Want From Me.mp3
+Time: 227
+Artist: Adam Lambert
+Title: Whataya Want From Me
+Album: For Your Entertainment
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284834
+song_end
+song_begin: Wish You Were Here - Avril Lavigne [NCT 04634343947627920000].mp3
+Time: 226
+Artist: Avril Lavigne
+Title: Wish You Were Here
+Album: Goodbye Lullaby
+Track: 1412
+Date: 2011
+Genre: Nhac US - UK
+mtime: 1394285294
+song_end
+song_begin: Fall Out Boy - Thanks For The Memories.mp3
+Time: 204
+Artist: Fall Out Boy
+Title: Thanks For The Memories
+Album: Infinity On High
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284910
+song_end
+song_begin: I Can't Wait - Akon - universal.mp3
+Time: 227
+Artist: Akon
+Title: I Can't Wait
+Album: Konvicted
+mtime: 1394284942
+song_end
+song_begin: Beautiful Soul.mp3
+Time: 195
+Title: Beautiful Soul
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2012
+Genre: Blues
+mtime: 1394284836
+song_end
+song_begin: Booty Music - Deep Side - Chất Lượng 128kbps - jKBaMrshHY.mp3
+Time: 182
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Deep Side
+Date: 2007
+Genre: Nhac Anh
+Title: Booty Music
+mtime: 1394284836
+song_end
+song_begin: BootyMusic-DeepSide_4fta.mp3
+Time: 182
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Deep Side
+Date: 2007
+Genre: Nhac Anh
+Title: Booty Music
+mtime: 1394284844
+song_end
+song_begin: DJGotUsFallingInLove-Usher-Pitbull_3eguu_hq.mp3
+Time: 221
+Artist: Usher, Pitbull
+Title: DJ Got Us Falling In Love
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Âu, Mỹ
+mtime: 1394284858
+song_end
+song_begin: Enrique Iglesias - Do you know.mp3
+Time: 222
+Artist: Enrique Iglesias
+Title: Do you know
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284884
+song_end
+song_begin: From Yesterday - 30 seconds to mars [NCT 2338416933].mp3
+Time: 248
+Artist: 30 seconds to mars
+Title: From Yesterday
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284912
+song_end
+song_begin: Goodbye - Avril Lavigne [NCT 44634343929956357500].mp3
+Time: 270
+Artist: Avril Lavigne
+Title: Goodbye
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Nhac US - UK
+mtime: 1394284916
+song_end
+song_begin: HaventMetYouYet-MichaelBuble_eh84.mp3
+Time: 245
+Artist: Michael Buble
+Title: Haven't Met You Yet
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284932
+song_end
+song_begin: Lil Mama - G-Slide Tour Bus.mp3
+Time: 211
+Artist: Lil' Mama
+Title: G-Slide Tour Bus
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284972
+song_end
+song_begin: LoveYouLikeALoveSongCover-Sami_3vpmb.mp3
+Time: 233
+Artist: Sami
+Title: Love You Like A Love Song (Cover)
+Album: NhacCuaTui.Com
+Track: 1412
+Genre: Âu, Mỹ
+mtime: 1394284974
+song_end
+song_begin: Lucky - Jason Mraz  Colbie Caillat [NCT 60633942543532677818].mp3
+Time: 190
+Artist: Jason Mraz & Colbie Caillat
+Title: Lucky
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394284976
+song_end
+song_begin: Luu Huong Giang - Co gai tu tin.mp3
+Time: 289
+Artist: Luu Huong Giang
+Title: Co gai tu tin
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Tre
+mtime: 1394284984
+song_end
+song_begin: Luu Huong Giang - De Anh Cu Ngu Quen.mp3
+Time: 283
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: Luu Huong Giang
+Date: 2007
+Genre: Nhac Tre
+Title: De Anh Cu Ngu Quen
+mtime: 1394284990
+song_end
+song_begin: Luu Huong Giang - Hen gap lai anh.mp3
+Time: 314
+Artist: Luu Huong Giang
+Title: Hen gap lai anh
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac tru tinh
+mtime: 1394284996
+song_end
+song_begin: MyLife-50Cent-Eminem-AdamLevine_4em8t.mp3
+Time: 239
+Artist: 50 Cent, Eminem, Adam Levine
+Title: My Life
+Album: NhacCuaTui.Com
+Track: 1412
+Genre: Âu, Mỹ
+mtime: 1394284998
+song_end
+song_begin: Ngu Cung - Cuop Vo Tuc Le Nguoi H'Mong.mp3
+Time: 404
+Artist: Ngu Cung
+Title: Cuop Vo - Tuc Le Nguoi H'Mong
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Tre
+mtime: 1394285004
+song_end
+song_begin: Right Now Na Na Na - Akon [NCT 60634014895946562500].mp3
+Time: 247
+Artist: Akon
+Title: Right Now Na Na Na
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+Genre: Nhac Anh
+mtime: 1394285254
+song_end
+song_begin: Simple Plan - Your love is a lie.mp3
+Time: 222
+Artist: Simple Plan
+Title: Your love is a lie
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394285256
+song_end
+song_begin: Smack That - Akon [NCT 40633885436961318750].mp3
+Time: 213
+Artist: Akon
+Title: Smack That
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394285260
+song_end
+song_begin: Space Bound - Eminem [NCT 20634541797592047500].mp3
+Time: 279
+Artist: Eminem
+Title: Space Bound
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Âu, Mỹ
+mtime: 1394285266
+song_end
+song_begin: The Ting Tings - That's Not My Name.mp3
+Time: 200
+Track: 1412
+Album: NhacCuaTui.Com
+Artist: The Ting Tings
+Date: 2007
+Genre: Nhac Anh
+Title: That's Not My Name
+mtime: 1394285268
+song_end
+song_begin: TinhAnh-DinhManhNinh_sck6.mp3
+Time: 231
+Artist: dinh Manh Ninh
+Title: Tinh Anh
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2010
+Genre: Nhac Tre
+mtime: 1394285272
+song_end
+song_begin: We Are Young - Fun., Janelle Monae.mp3
+Time: 250
+Artist: Janelle Monae, Fun
+Title: We Are Young
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Âu, Mỹ
+mtime: 1394285278
+song_end
+song_begin: When Youre Gone - Avril Lavigne [NCT 6101455696].mp3
+Time: 241
+Artist: Avril Lavigne
+Title: When You're Gone
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Nhac Anh
+mtime: 1394285282
+song_end
+song_begin: Young Uno  - Let U Go.mp3
+Time: 248
+Artist: Young Uno
+Title: Let U Go
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2007
+Genre: Rock, Hip Hop Viet
+mtime: 1394285296
+song_end
+song_begin: Ðam Cuoi Chuot.mp3
+Time: 264
+Artist: Gat Tan day
+Title: dam Cuoi Chuot
+Album: NhacCuaTui.Com
+Track: 1412
+Date: 2011
+Genre: Rock Viet
+mtime: 1394285298
+song_end
+song_begin: One More Night - Maroon 5 www.ChiaSeNhac.com [M4A 500kbps].wma
+Time: 219
+Artist: Maroon 5
+Album: Overexposed (Clean)
+Title: One More Night
+mtime: 1394285244
+song_end
+song_begin: Jesse McCartney - Because You Live.mp3
+Time: 200
+Artist: Jesse McCartney
+AlbumArtist: Soundtrack
+Title: Because You Live
+Album: Princess Diaries 2
+Track: 1412
+Date: 2011
+Genre: Au, My
+Composer: A. Carlsson/C. Braide/D. Child
+mtime: 1394284954
+song_end
+song_begin: Vanessa Amorosi - Perfect.mp3
+Time: 288
+Artist: Vanessa Amorosi
+Title: Perfect
+Album: Somewhere in the Real World
+mtime: 1394285274
+song_end
+song_begin: I Dont Love You - My Chemical Romance - Tải, lyrics, nhạc chờ bài hát, upload bởi nemomb.mp3
+Time: 239
+Artist: My Chemical Romance - www.Nhac.vui.vn
+AlbumArtist: www.Nhac.vui.vn
+Title: I Don't Love You
+Album: The Black Parade -www.Nhac.vui.vn
+Date: 2006
+Composer: www.Nhac.vui.vn
+mtime: 1394284948
+song_end
+song_begin: 87bb2944bab16e1d95911abd36589ee2.mp3
+Time: 293
+Artist: Chen Yue
+Title: LÃ¡Â»Â¥c dÃÂ£ tiÃÂªn tung
+Album: mp3.zing.vn
+mtime: 1394284828
+song_end
+song_begin: Cơn Mưa Ngang Qua - M-TP _ 320 lyrics.mp3
+Time: 214
+Artist: M-TP
+Title: Con Mua Ngang Qua (Part.2)
+Album: mp3.zing.vn
+mtime: 1394284856
+song_end
+song_begin: Dynamite.mp3
+Time: 203
+Artist: Taio Cruz
+Title: Dynamite
+Album: mp3.zing.vn
+mtime: 1394284874
+song_end
+song_begin: Impossible - Impossible - -  Shontelle .mp3
+Time: 226
+Artist: Shontelle
+Title: Impossible - Impossible
+Album: mp3.zing.vn
+mtime: 1394284950
+song_end
+song_begin: Just Give Me A Reason.mp3
+Time: 243
+Artist: Pink,Nate Ruess
+Title: Just Give Me A Reason
+Album: mp3.zing.vn
+mtime: 1394284960
+song_end
+song_begin: Price Tag - Jessie J.mp3
+Time: 223
+Artist: Jessie J
+Title: Price Tag
+Album: mp3.zing.vn
+mtime: 1394285250
+song_end
+song_begin: Song For A Stormy Night - Secret Garden.mp3
+Time: 256
+Artist: Secret Garden
+Title: Song For A Stormy Night
+Album: mp3.zing.vn
+mtime: 1394285262
+song_end
+song_begin: KhiNguoiLonCoDon-HongPhuoc-2665799_hq.mp3
+Time: 346
+Album: nhaccuatui.com
+Artist: Hồng Phước
+Genre: Nhạc Trẻ
+Title: Khi Người Lớn Cô Đơn
+mtime: 1394284964
+song_end
+end: Music_Mp3
+directory: USA Billboard  Hot 100 Year End 2013 [Bubanee]
+mtime: 1397537944
+begin: USA Billboard  Hot 100 Year End 2013 [Bubanee]
+directory: 1 - The Music
+mtime: 1397537944
+begin: USA Billboard  Hot 100 Year End 2013 [Bubanee]/1 - The Music
+song_begin: 082 - Trouble Maker - Olly Murs ft. Flo Rider.mp3
+Time: 186
+Artist: Olly Murs ft. Flo Rider
+Title: Troublemaker
+Album: USA Billboard Year End Charts Hot 100 2013 [Bubanee]
+Track: 82
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 001 - Thrift Shop - Macklemore & Ryan Lewis ft. Wanz.mp3
+Time: 236
+Artist: Macklemore & Ryan Lewis ft. Wanz
+Title: Thrift Shop
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 1
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 002 - Blurred Lines - Robin Thicke.mp3
+Time: 263
+Artist: Robin Thicke
+Title: Blurred Lines
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 2
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 003 - Radioactive - Imagine Dragons.mp3
+Time: 188
+Artist: Imagine Dragons
+Title: Radioactive
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 3
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 004 - Harlem Shake - Baauer.mp3
+Time: 197
+Artist: Baauer
+Title: Harlem Shake
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 4
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 005 - Can't Hold Us - Macklemore & Ryan Lewis - ft. Ray Dalton.mp3
+Time: 258
+Artist: Macklemore & Ryan Lewis ft. Ray Dalton
+Title: Can't Hold Us
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 5
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 006 - Mirrors - Justin Timberlake.mp3
+Time: 485
+Artist: Justin Timberlake
+Title: Mirrors
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 6
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 007 - Just Give Me A Reason - P!nk ft Nate Ruess.mp3
+Time: 243
+Artist: P!nk ft. Nate Ruess
+Title: Just Give Me A Reason
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 7
+Date: 2013
+Genre: Hit Single
+mtime: 1397537702
+song_end
+song_begin: 008 - When I Was Your Man - Bruno Mars.mp3
+Time: 214
+Artist: Bruno Mars
+Title: When I Was Your Man
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 8
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 009 - Cruise - Florida Georgia Line ft. Nelly.mp3
+Time: 207
+Artist: Florida Georgia Line ft. Nelly
+Title: Cruise ft. Nelly
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 9
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 010 - Roar - Katy Perry.mp3
+Time: 223
+Artist: Katy Perry
+Title: Roar
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 10
+Date: 2013
+Genre: Hit Single
+mtime: 1397537702
+song_end
+song_begin: 011 - Locked Out Of Heaven - Bruno Mars.mp3
+Time: 234
+Artist: Bruno Mars
+Title: Locked Out Of Heaven
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 11
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 012 - Ho Hey - The Lumineers.mp3
+Time: 163
+Artist: The Lumineers
+Title: Ho Hey
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 12
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 013 - Stay - Rihanna ft. Mikky Ekko.mp3
+Time: 241
+Artist: Rihanna ft. Mikky Ekko
+Title: Stay
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 13
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 014 - Get Lucky - Daft Punk ft. Pharell Williams.mp3
+Time: 248
+Artist: Daft Punk ft. Pharrell Williams
+Title: Get Lucky
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 14
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 015 - Royals - Lorde.mp3
+Time: 192
+Artist: Lorde
+Title: Royals
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 15
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 016 - I Knew You Were In Trouble - Taylor Swift.mp3
+Time: 220
+Artist: Taylor Swift
+Title: I Knew You Were Trouble
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 16
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 017 - We Can't Stop - Miley Cyrus.mp3
+Time: 233
+Artist: Miley Cyrus
+Title: We Can't Stop
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 17
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 018 - Wrecking Ball - Miley Cyrus.mp3
+Time: 223
+Artist: Miley Cyrus
+Title: Wrecking Ball
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 18
+Date: 2013
+Genre: Hit Single
+mtime: 1397537702
+song_end
+song_begin: 019 - Wake Me Up - Avicii.mp3
+Time: 250
+Artist: Avicii
+Title: Wake Me Up
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 19
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 020 - Suit & Tie - Justin Timberlake feat. Jay Z.mp3
+Time: 331
+Artist: Justin Timberlake feat. Jay Z
+Title: Suit & Tie
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 20
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 021 - Cups (Pitch Perfects When I'm Gone) - Anna Kendrick.mp3
+Time: 77
+Artist: Anna Kendrick
+Title: Cups (Pitch Perfects When I'm Gone)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 21
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 022 - Holy Grail - Jay-Z ft. Justin Timberlake.mp3
+Time: 338
+Artist: Jay-Z ft. Justin Timberlake
+Title: Holy Grail
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 22
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 023 - Scream & Shout - Will.i.am & Brintney Spears.mp3
+Time: 284
+Artist: Will.I.Am ft. Britney Spears
+Title: Scream & Shout
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 23
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 024 - Clarity - Zedd ft. Foxes.mp3
+Time: 271
+Artist: Zedd ft. Foxes
+Title: Clarity
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 24
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 025 - Sail - Awolnation.mp3
+Time: 259
+Artist: AWOLNATION
+Title: Sail
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 25
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 026 - Don't You Worry Child - Swedish House Mafia ft. John Martin.mp3
+Time: 406
+Artist: Swedish House Mafia Feat John Martin
+Title: Don't You Worry Child
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 26
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 027 - Diamonds - Rihanna.mp3
+Time: 225
+Artist: Rihanna
+Title: Diamonds
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 27
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 028 - I Love It - Icona Pop ft. Charli XCX.mp3
+Time: 157
+Artist: Icona Pop ft. Charli XCX
+Title: I Love It
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 28
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 029 - Safe and Sound - Capital Cities.mp3
+Time: 193
+Artist: Capital Cities
+Title: Safe and Sound
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 29
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 030 - Treasure - Bruno Mars.mp3
+Time: 179
+Artist: Bruno Mars
+Title: Treasure
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 30
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 031 - The Way - Ariana Grande ft. Mac Miller.mp3
+Time: 226
+Artist: Ariana Grande ft. Mac Miller
+Title: The Way
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 31
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 032 - Started From The Bottom - Drake.mp3
+Time: 174
+Artist: Drake
+Title: Started From The Bottom
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 32
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 033 - Come & Get It - Selena Gomez.mp3
+Time: 232
+Artist: Selena Gomez
+Title: Come & Get It
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 33
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 034 - Hold On, We're Going Home - Drake ft. Majid Jordan.mp3
+Time: 227
+Artist: Drake
+Title: Hold On, We're Going Home
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 34
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 035 - Daylight - Maroon 5.mp3
+Time: 226
+Artist: Maroon 5
+Title: Daylight
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 35
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 036 - Feel This Moment - Pitbull ft. Christina Agruilera.mp3
+Time: 230
+Artist: Pitbull ft. Christina Aguilera
+Title: Feel This Moment
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 36
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 037 - Applause - Lady Gaga.mp3
+Time: 213
+Artist: Lady Gaga
+Title: Applause
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 37
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 038 - One More Night - Maroon 5.mp3
+Time: 220
+Artist: Maroon 5
+Title: One More Night
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 38
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 039 - Love me - Lil Wayne ft. Drake & Future.mp3
+Time: 255
+Artist: Lil Wayne ft. Drake & Future
+Title: Love me
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 39
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 040 - My Songs Know What You Did In The Dark (Light Em Up) - Fall Out Boy.mp3
+Time: 189
+Artist: Fall Out Boy
+Title: My Songs Know What You Did In The Dark (Light Em Up)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 40
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 041 - Fucking Problems - ASAP Rocky ft. Drake, 2 Chainz & Kendrick Lamar.mp3
+Time: 239
+Artist: Asap Rocky ft. Drake, 2 Chainz & Kendrick Lamar
+Title: Fucking Problems
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 41
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 042 - Beauty And A Beat - Justin Bieber ft. Nicki Minaj.mp3
+Time: 228
+Artist: Justin Bieber ft. Nicki Minaj
+Title: Beauty And A Beat
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 42
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 043 - Same Love - Macklemore & Ryan Lewis ft. Mary Lambert.mp3
+Time: 320
+Artist: Macklemore & Ryan Lewis ft. Mary Lambert
+Title: Same Love
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 43
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 044 - Sweet Nothing - Calvin Harris ft. Florence Welch.mp3
+Time: 216
+Artist: Calvin Harris feat. Florence Welch
+Title: Sweet Nothing
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 44
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 045 - Summertime Sadness (Cedric Gervais Vocal Down Mix) - Lana Del Rey.mp3
+Time: 415
+Artist: Lana Del Rey
+Title: Summertime Sadness (Cedric Gervais Vocal Down Mix)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 45
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 046 - Home - Phillip Phillips.mp3
+Time: 209
+Artist: Phillip Phillips
+Title: Home
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 46
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 047 - It's Time - Imagine Dragons.mp3
+Time: 240
+Artist: Imagine Dragons
+Title: It's Time
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 47
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 048 - Power Trip - J. Cole ft. Miguel.mp3
+Time: 240
+Artist: J Cole ft. Miguel
+Title: Power Trip
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 48
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 049 - Girl On Fire (Inferno) - Alicia Keys ft. Nicki Minaj.mp3
+Time: 271
+Artist: Alicia Keys ft. Nicki Minaj
+Title: Girl On Fire (Inferno Version)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 49
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 050 - Heart Attack - Demi Lovato.mp3
+Time: 211
+Artist: Demi Lovato
+Title: Heart Attack
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 50
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 051 - Love Somebody - Maroon 5.mp3
+Time: 230
+Artist: Maroon 5
+Title: Love Somebody
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 51
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 052 - I Will Wait - Mumford & Sons.mp3
+Time: 277
+Artist: Mumford & Sons
+Title: I Will Wait
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 52
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 053 - Try - Pink.mp3
+Time: 248
+Artist: P!nk
+Title: Try
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 53
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 054 - Wagon Wheel - Darius Rucker.mp3
+Time: 297
+Artist: Darius Rucker
+Title: Wagon Wheel
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 54
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 055 - Gangnam Style - Psy.mp3
+Time: 220
+Artist: Psy
+Title: Gangnam Style
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 55
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 056 - I Need Your Love - Calvin Harris ft. Ellie Goulding.mp3
+Time: 238
+Artist: Calvin Harris ft. Ellie Goulding
+Title: I Need Your Love
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 56
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 057 - Die Young - Kesha.mp3
+Time: 213
+Artist: Ke$ha
+Title: Die Young
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 57
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 058 - Some Nights - Fun.mp3
+Time: 277
+Artist: Fun.
+Title: Some Nights
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 58
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 059 - Bad - Wale ft Tiara Thomas.mp3
+Time: 258
+Artist: Wale ft. Tiara Thomas
+Title: Bad
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 59
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 060 - Boys 'Round Here - Blake Sheldon ft. Pistol Annies & Friends.mp3
+Time: 290
+Artist: Blake Sheldon ft. Pistol Annies & Friends
+Title: Boys 'Round Here
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 60
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 061 - Gone, Gone, Gone - Phillip Phillips.mp3
+Time: 210
+Artist: Phillip Phillips
+Title: Gone, Gone, Gone
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 61
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 062 - Demons - Imagine Dragons.mp3
+Time: 178
+Artist: Imagine Dragons
+Title: Demons
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 62
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 063 - Counting Stars - One Republic.mp3
+Time: 257
+Artist: One Republic
+Title: Counting Stars
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 63
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 064 - I Cry - Flo Rida.mp3
+Time: 225
+Artist: Flo Rida
+Title: I Cry
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 64
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 065 - Little Talks - Of Monsters & Men.mp3
+Time: 267
+Artist: Of Monsters And Men
+Title: Little Talks
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 65
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 066 - The Other Side - Jason Derulo.mp3
+Time: 227
+Artist: Jason Derulo
+Title: The Other Side
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 66
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 067 - Berzerk - Eminem.mp3
+Time: 239
+Artist: Eminem
+Title: Berzerk
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 67
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 068 - Catch My Breath - Kelly Clarkson.mp3
+Time: 252
+Artist: Kelly Clarkson
+Title: Catch My Breath
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 68
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 069 - Crash My Party - Luke Bryan.mp3
+Time: 235
+Artist: Luke Bryan
+Title: Crash My Party
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 69
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 070 - Pour It Up - Rihanna.mp3
+Time: 161
+Artist: Rihanna
+Title: Pour It Up
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 70
+Date: 2013
+Genre: Hit Single
+mtime: 1397537703
+song_end
+song_begin: 071 - 22 - Taylor Swift.mp3
+Time: 232
+Artist: Taylor Swift
+Title: 22
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 71
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 072 - I Want Crazy - Hunter Hayes.mp3
+Time: 237
+Artist: Hunter Hayes
+Title: I Want Crazy
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 72
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 073 - The Fox (What Does The Fox Say) - Ylvis.mp3
+Time: 214
+Artist: Ylvis
+Title: The Fox
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 73
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 074 - Best Song Ever - One Direction.mp3
+Time: 202
+Artist: One Direction
+Title: Best Song Ever
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 74
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 075 - The A Team - Ed Sheeran.mp3
+Time: 262
+Artist: Ed Sheeran
+Title: The A Team
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 75
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 076 - Carry On - Fun.mp3
+Time: 280
+Artist: fun.
+Title: Carry On
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 76
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 077 - Highway Don't Care - Tim McGraw ft. Taylor Swift.mp3
+Time: 279
+Artist: Tim McGraw ft. Taylor Swift
+Title: Highway Don't Care
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 77
+Date: 2013
+Genre: Hit Single
+mtime: 1397538004
+song_end
+song_begin: 078 - That's My Kind of Night - Luke Bryan.mp3
+Time: 190
+Artist: Luke Bryan
+Title: That's My Kind of Night
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 78
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 079 - Swimming Pools (Drank) - Kendrick Lamar.mp3
+Time: 221
+Artist: Kendrick Lamar
+Title: Swimming Pools (Drank)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 79
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 080 - Sure Be Cool If You Did - Blake Sheldon.mp3
+Time: 216
+Artist: Blake Shelton
+Title: Sure Be Cool If You Did
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 80
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 081 - Beautiful - Mariah Carey ft. Miguel.mp3
+Time: 202
+Artist: Mariah Carey ft. Miguel
+Title: #Beautiful
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 81
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 083 - Body Party - Ciara.mp3
+Time: 237
+Artist: Ciara
+Title: Body Party
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 83
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 084 - Adorn - Miguel.mp3
+Time: 194
+Artist: Miguel
+Title: Adorn
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 84
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 085 - Hall Of Fame - The Script ft. Will.I.Am.mp3
+Time: 202
+Artist: The Script ft. Will.I.Am
+Title: Hall Of Fame
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 85
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 086 - Let Me Love You (Until You Learn to Love Yourself) - Ne-Yo.mp3
+Time: 254
+Artist: Ne-Yo
+Title: Let Me Love You (Until You Learn to Love Yourself)
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 86
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 087 - U.O.E.N.O. - Rocko ft. Future & Rick Ross.mp3
+Time: 260
+Artist: Rocko ft. Future & Rick Ross
+Title: U.O.E.N.O.
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 87
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 088 - Next to Me - Emeli Sande.mp3
+Time: 197
+Artist: Emeli Sande
+Title: Next to Me
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 88
+Date: 2013
+Genre: Hit Single
+mtime: 1397537703
+song_end
+song_begin: 089 - Mama's Broken Heart - Miranda Lambert.mp3
+Time: 179
+Artist: Miranda Lambert
+Title: Mama's Broken Heart
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 89
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 090 - It Goes Like This - Thomas Rhett.mp3
+Time: 187
+Artist: Thomas Rhett
+Title: It Goes Like This
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 90
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 091 - Bugatti - Ace Hood ft. Future & Rick Ross.mp3
+Time: 270
+Artist: Ace Hood ft. Future & Rick Ross
+Title: Bugatti
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 91
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 092 - Wanted - Hunter Hayes.mp3
+Time: 230
+Artist: Hunter Hayes
+Title: Wanted
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 92
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 093 - Downtown - lady Antebellum.mp3
+Time: 196
+Artist: Lady Antebellum
+Title: Downtown
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 93
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 094 - Get Your Shine On - Florida Georgia Line.mp3
+Time: 222
+Artist: Florida Georgia Line
+Title: Get Your Shine On
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 94
+Date: 2013
+Genre: Hit Single
+mtime: 1397538030
+song_end
+song_begin: 095 - Thatpower - Will.I.Am ft. Justin Bieber.mp3
+Time: 280
+Artist: Will.I.Am ft. Justin Bieber
+Title: #Thatpower
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 95
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 096 - Brave - Sara Bareilles.mp3
+Time: 221
+Artist: Sara Bareilles
+Title: Brave
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 96
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 097 - Let Her Go - Passenger.mp3
+Time: 253
+Artist: Passenger
+Title: Let Her Go
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 97
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 098 - Runnin' Outta Moonlight - Randy Houser.mp3
+Time: 194
+Artist: Randy Houser
+Title: Runnin' Outta Moonlight
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 98
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 099 - I'm Different - 2 Chainz.mp3
+Time: 207
+Artist: 2 Chainz
+Title: I'm Different
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 99
+Date: 2013
+Genre: Hit Single
+mtime: 1397538005
+song_end
+song_begin: 100 - Still Into You - Paramore.mp3
+Time: 216
+Artist: Paramore
+Title: Still Into You
+Album: USA Billboard Year End Charts Top 100 2013 [Bubanee]
+Track: 100
+Date: 2013
+Genre: Hit Single
+mtime: 1397537944
+song_end
+playlist_begin: Playlist Artist.m3u
+mtime: 1397537944
+playlist_end
+playlist_begin: Playlist Random.m3u
+mtime: 1397537944
+playlist_end
+playlist_begin: Playlist Title.m3u
+mtime: 1397537944
+playlist_end
+playlist_begin: Playlist.m3u
+mtime: 1397537944
+playlist_end
+end: USA Billboard  Hot 100 Year End 2013 [Bubanee]/1 - The Music
+end: USA Billboard  Hot 100 Year End 2013 [Bubanee]
+directory: VA-Billboard-Top-100-Of-2010
+mtime: 1397536689
+begin: VA-Billboard-Top-100-Of-2010
+song_begin: 001 - Kesha - Tik Tok.mp3
+Time: 201
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 001 - Ke$ha - Tik Tok
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-09-25
+Genre: Top 40, Pop
+mtime: 1397536840
+song_end
+song_begin: 002 - Lady Antebelum - Need You Now.mp3
+Time: 234
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 002 - Lady Antebelum - Need You Now
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-01-25
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 003 - Train - Hey Soul Sister.mp3
+Time: 216
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 003 - Train - Hey Soul Sister
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-01-25
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 004 - Katy Perry feat Snoop Dogg - California Gurls.mp3
+Time: 242
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 004 - Katy Perry feat Snoop Dogg - California Gurls
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 005 - Usher feat Will I Am - OMG.mp3
+Time: 284
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 005 - Usher feat Will I Am - OMG
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Composer: Will.I.Am瀌
+mtime: 1397536840
+song_end
+song_begin: 007 - Eminem feat Rihanna - Love The Way You Lie.mp3
+Time: 263
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 007 - Eminem feat Rihanna - Love The Way You Lie
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537140
+song_end
+song_begin: 008 - Lady Gaga - Bad Romance.mp3
+Time: 263
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 008 - Lady Gaga - Bad Romance
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-11-06
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 009 - Taio Cruz - Dynamite.mp3
+Time: 204
+Artist: DJ Willis (williswho.com)/Taio Cruz
+AlbumArtist: DJ Willis (williswho.com)
+Title: 009 - Taio Cruz - Dynamite
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 010 - Taio Crus feat Ludacris - Break Your Heart.mp3
+Time: 187
+Artist: DJ Willis (williswho.com)/Taio Cruz Feat. Ludacris
+AlbumArtist: DJ Willis (williswho.com)
+Title: 010 - Taio Crus feat Ludacris - Break Your Heart
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Composer: BMF
+mtime: 1397537742
+song_end
+song_begin: 012 - Enrique Iglesias feat Pitbull - I Like It.mp3
+Time: 230
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 012 - Enrique Iglesias feat Pitbull - I Like It
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 014 - Jason DeRulo - In My Head.mp3
+Time: 202
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 014 - Jason DeRulo - In My Head
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Composer: J.R. Rotem
+mtime: 1397537742
+song_end
+song_begin: 016 - Lady Gaga feat Beyonce - Telephone.mp3
+Time: 221
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 016 - Lady Gaga feat Beyonce - Telephone
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 017 - Katy Perry - Teenage Dream.mp3
+Time: 229
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 017 - Katy Perry - Teenage Dream
+Album: Billboard Top 100 of 2010
+Track: 1/21
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 018 - Bruno Mars - Just The Way You Are.mp3
+Time: 219
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 018 - Bruno Mars - Just The Way You Are
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 019 - Mike Posner - Cooler Than Me.mp3
+Time: 215
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 019 - Mike Posner - Cooler Than Me
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 020 - Black Eyed Peas - Imma Be.mp3
+Time: 260
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 020 - Black Eyed Peas - Imma Be
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-06-12
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 021 - Jay-Z and Alicia Keys - Empire State Of Mine.mp3
+Time: 276
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 021 - Jay-Z and Alicia Keys - Empire State Of Mine
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-10-13
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 022 - Usher feat Pitbull - DJ Got Us Fallin In Love.mp3
+Time: 222
+Artist: DJ Willis (williswho.com)/[DJ Mebbe]
+AlbumArtist: DJ Willis (williswho.com)
+Title: 022 - Usher feat Pitbull - DJ Got Us Fallin In Love
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537777
+song_end
+song_begin: 023 - Travie McCoy feat Bruno Mars - Billionaire.mp3
+Time: 211
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 023 - Travie McCoy feat Bruno Mars - Billionaire
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397536839
+song_end
+song_begin: 024 - Eminem - Not Afraid.mp3
+Time: 250
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 024 - Eminem - Not Afraid
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Composer: Boi 1da
+mtime: 1397537739
+song_end
+song_begin: 025 - Iyaz - Replay.mp3
+Time: 182
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 025 - Iyaz - Replay
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397536677
+song_end
+song_begin: 026 - David Guetta feat Akon - Sexy Chick.mp3
+Time: 194
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 026 - David Guetta feat Akon - Sexy Chick
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-10-01
+Genre: Top 40, Pop
+Composer: http://www.1337x.org
+Performer: http://www.1337x.org
+Performer: http://www.1337x.org
+mtime: 1397537742
+song_end
+song_begin: 027 - The Script - Breakeven.mp3
+Time: 261
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 027 - The Script - Breakeven
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537776
+song_end
+song_begin: 028 - Kesha - Your Love Is My Drug.mp3
+Time: 188
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 028 - Ke$ha - Your Love Is My Drug
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 029 - Black Eyed Peas - I Gotta Feeling.mp3
+Time: 246
+Artist: DJ Willis (williswho.com)/The Black Eyed Peas
+AlbumArtist: DJ Willis (williswho.com)
+Title: 029 - Black Eyed Peas - I Gotta Feeling
+Album: Billboard Top 100 of 2010
+Track: 1/21
+Date: 2010-06-26
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 030 - Owl City - Fireflies.mp3
+Time: 230
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 030 - Owl City - Fireflies
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-08-24
+Genre: Top 40, Pop
+mtime: 1397537140
+song_end
+song_begin: 033 - Lady Gaga - Alejandro.mp3
+Time: 274
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 033 - Lady Gaga - Alejandro
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 034 - Jason DeRulo - Ridin Solo.mp3
+Time: 217
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 034 - Jason DeRulo - Ridin Solo
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397536840
+song_end
+song_begin: 035 - Nelly - Just A Dream.mp3
+Time: 237
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 035 - Nelly - Just A Dream
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 039 - Michael Buble - Haven't Met You Yet.mp3
+Time: 244
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 039 - Michael Buble - Haven't Met You Yet
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-01-25
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 041 - Jay Sean feat Lil Wayne - Down.mp3
+Time: 212
+Artist: DJ Willis (williswho.com)/Jay Sean Ft. Lil Wayne
+AlbumArtist: DJ Willis (williswho.com)
+Title: 041 - Jay Sean feat Lil Wayne - Down
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397536840
+song_end
+song_begin: 042 - La Roux - Bulletproof.mp3
+Time: 207
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 042 - La Roux - Bulletproof
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537777
+song_end
+song_begin: 043 - Jason DeRulo - Whatcha Say.mp3
+Time: 223
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 043 - Jason DeRulo - Whatcha Say
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 044 - Justin Bieber feat Ludacris - Baby.mp3
+Time: 216
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 044 - Justin Bieber feat Ludacris - Baby
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 045 - Adam Lambert - Whataya Want From Me.mp3
+Time: 227
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 045 - Adam Lambert - Whataya Want From Me
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-12-24
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 047 - Rihanna - Only Girl In The World.mp3
+Time: 236
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 047 - Rihanna - Only Girl In The World
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 048 - Kris Allen - Live Like Were Dying.mp3
+Time: 212
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 048 - Kris Allen - Live Like Were Dying
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537140
+song_end
+song_begin: 051 - Kesha feat 3OH3 - Blah Blah Blah.mp3
+Time: 172
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 051 - Ke$ha feat 3OH3 - Blah Blah Blah
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 052 - Trey Songz feat Nicki Minaj - Bottoms Up.mp3
+Time: 245
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 052 - Trey Songz feat Nicki Minaj - Bottoms Up
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537140
+song_end
+song_begin: 053 - Jay Sean feat Sean Paul and Lil Jon - Do You Remember.mp3
+Time: 211
+Artist: DJ Willis (williswho.com)/Jay Sean feat. Sean Paul and Lil Jon
+AlbumArtist: DJ Willis (williswho.com)
+Title: 053 - Jay Sean feat Sean Paul and Lil Jon - Do You Remember
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Composer: Multiple Composers
+mtime: 1397536840
+song_end
+song_begin: 054 - OneRepublic - All The Right Moves.mp3
+Time: 238
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 054 - OneRepublic - All The Right Moves
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 055 - Orianthi - According To You.mp3
+Time: 200
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 055 - Orianthi - According To You
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-11-23
+Genre: Top 40, Pop
+mtime: 1397537140
+song_end
+song_begin: 057 - Taylor Swift - You Belong With Me.mp3
+Time: 230
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 057 - Taylor Swift - You Belong With Me
+Album: Billboard Top 100 of 2010
+Track: 1/18
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 059 - Kesha - Take It Off.mp3
+Time: 215
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 059 - Ke$ha - Take It Off
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 061 - Neon Trees - Animal.mp3
+Time: 187
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 061 - Neon Trees - Animal
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537140
+song_end
+song_begin: 062 - Maroon 5 - Misery.mp3
+Time: 333
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 062 - Maroon 5 - Misery
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 063 - BoB feat Rivers Cuomo - Magic.mp3
+Time: 197
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 063 - BoB feat Rivers Cuomo - Magic
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 064 - Lady Gaga - Paparazzi.mp3
+Time: 208
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 064 - Lady Gaga - Paparazzi
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-08-24
+Genre: Top 40, Pop
+mtime: 1397537140
+song_end
+song_begin: 067 - Miley Cyrus - Party In The USA.mp3
+Time: 203
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 067 - Miley Cyrus - Party In The USA
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-08-24
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 069 - Britney Spears - 3.mp3
+Time: 204
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 069 - Britney Spears - 3
+Album: Billboard Top 100 of 2010
+Track: 1/20
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 070 - Shontelle - Impossible.mp3
+Time: 226
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 070 - Shontelle - Impossible
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-01-25
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 072 - Boys Like Girls feat Taylor Swift - Two Is Better Than One.mp3
+Time: 244
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 072 - Boys Like Girls feat Taylor Swift - Two Is Better Than One
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-11-23
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 073 - 3OH3 feat Kesha - My First Kiss.mp3
+Time: 192
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 073 - 3OH3 feat Ke$ha - My First Kiss
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 074 - Kelly Clarkson - Already Gone.mp3
+Time: 280
+Artist: DJ Willis (williswho.com)/Kelly Clarkson
+AlbumArtist: DJ Willis (williswho.com)
+Title: 074 - Kelly Clarkson - Already Gone
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397536840
+song_end
+song_begin: 075 - Black Eyed Peas - Rock That Body.mp3
+Time: 269
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 075 - Black Eyed Peas - Rock That Body
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 077 - Selena Gomez and The Scene - Naturally.mp3
+Time: 187
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 077 - Selena Gomez and The Scene - Naturally
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-01-25
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 087 - Kings Of Leon - Use Somebody.mp3
+Time: 233
+Artist: DJ Willis (williswho.com)/Kings Of Leon
+AlbumArtist: DJ Willis (williswho.com)
+Title: 087 - Kings Of Leon - Use Somebody
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-06-26
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 088 - Carrie Underwood - Undo It.mp3
+Time: 178
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 088 - Carrie Underwood - Undo It
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Composer: Carrie Underwood/Kara DioGuardi/Luke Laird/Marti Frederiksen
+mtime: 1397537440
+song_end
+song_begin: 089 - Sean Kingston and Justin Bieber - Eenie Meenie.mp3
+Time: 203
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 089 - Sean Kingston and Justin Bieber - Eenie Meenie
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-03-23
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 091 - Miranda Lambert - The House That Built Me.mp3
+Time: 226
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 091 - Miranda Lambert - The House That Built Me
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 092 - The Band Perry - If I Die Young.mp3
+Time: 222
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 092 - The Band Perry - If I Die Young
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537777
+song_end
+song_begin: 093 - Paramore - The Only Exception.mp3
+Time: 1894
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 093 - Paramore - The Only Exception
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Composer: g.ortha.ii@ferialaw.com
+Performer: g.ortha.ii@ferialaw.com
+Performer: g.ortha.ii@ferialaw.com
+Disc: g.ortha.ii@ferialaw.com
+mtime: 1397537777
+song_end
+song_begin: 094 - Lady Antebellum - American Honey.mp3
+Time: 210
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 094 - Lady Antebellum - American Honey
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 095 - Sara Bareilles - King Of Anything.mp3
+Time: 208
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 095 - Sara Bareilles - King Of Anything
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 096 - Daughtry - Life After You.mp3
+Time: 206
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 096 - Daughtry - Life After You
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-12-24
+Genre: Top 40, Pop
+mtime: 1397537140
+song_end
+song_begin: 097 - Uncle Kracker - Smile.mp3
+Time: 202
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 097 - Uncle Kracker - Smile
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-11-23
+Genre: Top 40, Pop
+mtime: 1397537440
+song_end
+song_begin: 098 - Cali Swag District - Teach me How To Dougie.mp3
+Time: 239
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 098 - Cali Swag District - Teach me How To Dougie
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+mtime: 1397537777
+song_end
+song_begin: 100 - Jerrod Niemann - Lover Lover.mp3
+Time: 195
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 100 - Jerrod Niemann - Lover Lover
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+mtime: 1397537742
+song_end
+song_begin: 006 - BoB feat Hayley Williams - Airplanes.mp3
+Time: 181
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 006 - BoB feat Hayley Williams - Airplanes
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Disc: 1/1
+mtime: 1397537140
+song_end
+song_begin: 013 - Young Money feat Lloyd - Bedrock.mp3
+Time: 290
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 013 - Young Money feat Lloyd - Bedrock
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 015 - Rihanna - Rude Boy.mp3
+Time: 224
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 015 - Rihanna - Rude Boy
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 031 - Trey Songz feat Fabolous - Say Aah.mp3
+Time: 209
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 031 - Trey Songz feat Fabolous - Say Aah
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 032 - Drake - Find Your Love.mp3
+Time: 208
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 032 - Drake - Find Your Love
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Composer: http://0daymusic.org/ftp.php
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 036 - Ludacris - How Low.mp3
+Time: 208
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 036 - Ludacris - How Low
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 038 - Timbaland feat Justin Timberlake - Carry Out.mp3
+Time: 233
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 038 - Timbaland feat Justin Timberlake - Carry Out
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537140
+song_end
+song_begin: 040 - Flo Rida feat David Guetta - Club Cant Handle Me.mp3
+Time: 233
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 040 - Flo Rida feat David Guetta - Club Cant Handle Me
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Composer: http://0daymusic.org/ftp.php
+Disc: 1/2
+mtime: 1397537777
+song_end
+song_begin: 046 - Taylor Swift - Mine.mp3
+Time: 232
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 046 - Taylor Swift - Mine
+Album: Billboard Top 100 of 2010
+Track: 1/14
+Date: 2010
+Genre: Top 40, Pop
+Composer: Taylor Swift
+Disc: 1/1
+mtime: 1397537776
+song_end
+song_begin: 049 - Rihanna feat Young Jeezy - Hard.mp3
+Time: 253
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 049 - Rihanna feat Young Jeezy - Hard
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537140
+song_end
+song_begin: 050 - Jay-Z feat Mr Hudson - Young Forever.mp3
+Time: 255
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 050 - Jay-Z feat Mr Hudson - Young Forever
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 056 - Ludacris feat Nicki Minaj - My Chick Bad.mp3
+Time: 219
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 056 - Ludacris feat Nicki Minaj - My Chick Bad
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 058 - Black Eyed Peas - Meet Me Halfway.mp3
+Time: 285
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 058 - Black Eyed Peas - Meet Me Halfway
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537140
+song_end
+song_begin: 060 - Drake - Over.mp3
+Time: 234
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 060 - Drake - Over
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 065 - New Boyz feat Ray J - Tie Me Down.mp3
+Time: 179
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 065 - New Boyz feat Ray J - Tie Me Down
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397536840
+song_end
+song_begin: 066 - Nicki Minaj - Your Love.mp3
+Time: 199
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 066 - Nicki Minaj - Your Love
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537140
+song_end
+song_begin: 071 - Drake feat Kanye West Lil Wayne and Eminem - Forever.mp3
+Time: 358
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 071 - Drake feat Kanye West Lil Wayne and Eminem - Forever
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 076 - OneRepublic - Secrets.mp3
+Time: 225
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 076 - OneRepublic - Secrets
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Composer: Ryan Tedder
+Disc: 1/1
+mtime: 1397537777
+song_end
+song_begin: 078 - Alicia Keys - Un-Thinkable (Im Ready).mp3
+Time: 247
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 078 - Alicia Keys - Un-Thinkable (Im Ready)
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537140
+song_end
+song_begin: 079 - DJ Khaled feat T-Pain Ludacris Snoop Dogg and Rick Ross - All I Do Is Win.mp3
+Time: 229
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 079 - DJ Khaled feat T-Pain Ludacris Snoop Dogg and Rick Ross - All I Do Is Win
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 080 - Kevin Rudolf feat Birdman Jay Sean and Lil Wayne - I Made It (Cash Money Heroes).mp3
+Time: 251
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 080 - Kevin Rudolf feat Birdman Jay Sean and Lil Wayne - I Made It (Cash Money Heroes)
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 081 - Sugarland - Stuck Like Glue.mp3
+Time: 248
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 081 - Sugarland - Stuck Like Glue
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010
+Genre: Top 40, Pop
+Composer: Jennifer Nettles, Kristian Bush, Kevin Griffin & Shy Carter
+Disc: 1/1
+mtime: 1397537741
+song_end
+song_begin: 082 - Usher feat Plies - Hey Daddy (Daddys Home).mp3
+Time: 257
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 082 - Usher feat Plies - Hey Daddy (Daddys Home)
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 083 - Usher - There Goes My Baby.mp3
+Time: 282
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 083 - Usher - There Goes My Baby
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 084 - Taylor Swift - Today Was A Fairytale.mp3
+Time: 242
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 084 - Taylor Swift - Today Was A Fairytale
+Album: Billboard Top 100 of 2010
+Track: 1/1
+Date: 2010
+Genre: Top 40, Pop
+Disc: 1/1
+mtime: 1397537742
+song_end
+song_begin: 085 - Timbaland feat Drake - Say Something.mp3
+Time: 243
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 085 - Timbaland feat Drake - Say Something
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537440
+song_end
+song_begin: 086 - Beyonce - Sweet Dreams.mp3
+Time: 208
+Artist: DJ Willis (williswho.com)/Beyonce
+AlbumArtist: DJ Willis (williswho.com)
+Title: 086 - Beyonce - Sweet Dreams
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Composer: Djleak.com and promotorrents.com
+Disc: 1/2
+mtime: 1397537140
+song_end
+song_begin: 090 - Lil Wayne feat Drake - Right Above It.mp3
+Time: 276
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 090 - Lil Wayne feat Drake - Right Above It
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537742
+song_end
+song_begin: 099 - Alicia Keys - Try Sleeping With A Broken Heart.mp3
+Time: 232
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 099 - Alicia Keys - Try Sleeping With A Broken Heart
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 1/2
+mtime: 1397537140
+song_end
+song_begin: 011 - BoB feat Bruno Mars - Nothin On You.mp3
+Time: 268
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 011 - BoB feat Bruno Mars - Nothin On You
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 2/2
+mtime: 1397537440
+song_end
+song_begin: 037 - Far East Movement feat Cataracs and Dev - Like A G6.mp3
+Time: 219
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 037 - Far East Movement feat Cataracs and Dev - Like A G6
+Album: Billboard Top 100 of 2010
+Track: 1
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 2/2
+mtime: 1397537742
+song_end
+song_begin: 068 - Chris Brown feat Tyga and Kevin McCall - Deuces.mp3
+Time: 277
+Artist: DJ Willis (williswho.com)
+AlbumArtist: DJ Willis (williswho.com)
+Title: 068 - Chris Brown feat Tyga and Kevin McCall - Deuces
+Album: Billboard Top 100 of 2010
+Track: 1/12
+Date: 2010-00-00
+Genre: Top 40, Pop
+Disc: 2/2
+mtime: 1397537440
+song_end
+end: VA-Billboard-Top-100-Of-2010
+directory: ringtone
+mtime: 1397304833
+begin: ringtone
+song_begin: romantic.mp3
+Time: 37
+mtime: 1394285714
+song_end
+song_begin: timber.mp3
+Time: 209
+mtime: 1394285718
+song_end
+song_begin: beatit.mp3
+Time: 260
+Album: nhaccuatui.com
+Artist: Sungha Jung
+Genre: Không Lời
+Title: Beat It
+mtime: 1394285722
+song_end
+end: ringtone
